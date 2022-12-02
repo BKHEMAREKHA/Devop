@@ -1,5 +1,3 @@
-
-name[D:
-age:
-group:
-doj:
+name:Hema
+Age: 21
+Group:1
